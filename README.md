@@ -14,7 +14,6 @@ cd flowxo-services-stripe-example
 npm install
 grunt init
 
-
 # Create a .env file with the following content (no hashes):
 STRIPE_EXAMPLE_ID=<YOUR_APP_ID>
 STRIPE_EXAMPLE_SECRET=<YOUR_APP_SECRET>
